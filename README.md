@@ -47,7 +47,7 @@ LIMIT 10;
 - **Top Sectors:** High-paying roles are dominated by **Fintech (Crypto), Insurance, and Financial Analytics**.
 
 
-![Top paying roles](assests\1_top_paying_roles.png)
+![Top paying roles](assests/1_top_paying_roles.png)
 
 ### 2. Skills for Top Paying Jobs
 This section explores the specific skills associated with the top-paying Data Analyst positions in Hong Kong.
@@ -93,7 +93,7 @@ ORDER BY
 **Insight:**
 To maximize earning potential, prioritize **SQL** and **Python**, and supplement with **Cloud (Azure)** or **Big Data (Spark/Hadoop)** skills.
 
-![Skills for Top Paying Jobs](assests\2_top_paying_job_skills.png)
+![Skills for Top Paying Jobs](assests/2_top_paying_job_skills.png)
 
 ### 3. In-demand Skills for Data Analysts 
 Querying the most frequently requested skills:
