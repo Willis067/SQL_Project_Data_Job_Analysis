@@ -22,8 +22,8 @@ WITH top_paying_jobs AS(
 SELECT
     top_paying_jobs.*,
     skills
-FROM skills_job_dim 
-JOIN top_paying_jobs
+FROM top_paying_jobs 
+JOIN skills_job_dim
     USING (job_id)
 JOIN skills_dim
     USING (skill_id)
