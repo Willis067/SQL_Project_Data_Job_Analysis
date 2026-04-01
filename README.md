@@ -1,9 +1,9 @@
-# 📊 Data Analyst Job Market Analysis (Hong Kong)
+#  Data Analyst Job Market Analysis (Hong Kong)
 This project dives into the job market to uncover the highest-paying roles, most requested skills, and the "sweet spot" where high demand meets high compensation in Hong Kong.
 
-🔍 Explore the code: [project_sql folder](/project_sql/)
+ Explore the code: [project_sql folder](/project_sql/)
 
-## 🏗️ The Methodology
+##  The Methodology
 I focused on answering five core questions to guide career strategy in the HK market:
 1. What are the **highest-paying** Data Analyst jobs?
 2. Which **skills** do these top-paying roles require?
