@@ -11,13 +11,13 @@ I focused on answering five core questions to guide career strategy in the HK ma
 4. Which skills are linked to the **highest average salaries**?
 5. What are the **optimal skills** to learn (balancing demand and pay)?
 
-### 🛠️ Tools Used
+###  Tools Used
 * **SQL:** The backbone of the analysis.
 * **PostgreSQL:** Database management system used for querying.
 
 
 
-## 📈 Analysis & Insights
+##  Analysis & Insights
 
 ### 1. Top Paying Data Analyst Jobs
 I filtered for roles explicitly titled "Data Analyst" in Hong Kong with non-null salary data to find the current market leaders.
@@ -229,7 +229,7 @@ LIMIT 10;
 *Table of the most optimal skills for Data Analyst sorted by salary*
 
 
-## 🧠 What I Learned
+##  What I Learned
 Through this project, I gained practical experience in analyzing real-world job market data for Data Analyst roles in Hong Kong. Key skills and takeaways include:
 
 - **Advanced SQL:** Using joins, aggregations, and CTEs to extract insights from multiple tables.
@@ -237,7 +237,7 @@ Through this project, I gained practical experience in analyzing real-world job 
 - **Data Analysis & Interpretation:** Identifying high-paying roles, in-demand skills, and optimal skill combinations.
 
 
-## 🎯 Conclusion
+##  Conclusion
 ### Insights
 From this analysis, several clear insights emerged:
 1. **Financial Services & Fintech Lead:** High-paying roles are concentrated in cryptocurrency exchanges, financial analytics firms, and insurance companies.
